@@ -72,7 +72,7 @@ vimp_LSV_gpr_bs = implied_vol(prices_LSV_bs, par, false);
 
 l_ind = compute_percentiles(100);
 
-mid = 10; %round(par.nb_T_sim / 2);
+mid = 2; 
 xx = xx(:, mid, 2); 
 yy = v_(:, mid);
 
