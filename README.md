@@ -14,3 +14,5 @@ I Then tried to improve upon their model by replacing the Ridge Regression with 
 ## Code Execution 
 
 In the `Replication code` directory, `Replication.m` replicates the results of the original paper in one code for more clarity. The file `main.m` replicates my results as well as the graphs from the main document. 
+
+The Python code only features the replication of the original results from Bayer et al. (2024), as Python's capabilities, even enhanced with numba, weren't powerful enough.
